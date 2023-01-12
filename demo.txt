@@ -1,0 +1,2 @@
+This is the sample demo file for the understanding of git as well as github.
+this file has been pushing to github using git
